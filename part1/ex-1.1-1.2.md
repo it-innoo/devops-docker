@@ -54,7 +54,6 @@ $ docker rm 0342
 ```
 $ docker ps -a
 CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
-```
 $ docker rmi f68d
 Untagged: nginx:latest
 Untagged: nginx@sha256:48cbeee0cb0a3b5e885e36222f969e0a2f41819a68e07aeb6631ca7cb356fed1
