@@ -3,7 +3,7 @@
 
 ### Commands
 ```
-$ docker n -p 8080:80 devopsdockeruh/ports_exercise
+$ docker run -p 8080:80 devopsdockeruh/ports_exercise
 ```
 
 ### Output in console
